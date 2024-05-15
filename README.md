@@ -10,7 +10,22 @@ We're a leading company in software development and user experience design. Our 
   [Discover more about us](https://www.zeentro.com/)
 <br></br>
 
+<div align="center">
+   <img src="https://github.com/zeentro/zeentro/assets/161385562/6c89cb83-b327-41dc-85c3-741a5304c653" alt="Zeentro Data Image">
+</div>
 
+<h1 align="center">
+   <b>Contact 📬</b>
+</h1>
+
+You can contact me through:
+<br></br>
+
+- WhatsApp: [+1 914-997-2195](https://wa.me/19149972195)
+- Behance: [Zeentro](https://www.behance.net/zeentro)
+- Linkedin: [Zeentro Company](https://www.linkedin.com/company/102357202/admin/feed/posts/)
+- Email: [contact@zeentro.com](mailto:contact@zeentro.com) 
+- Secondary Email: [hola@zeentro.com](mailto:hola@zeentro.com)
 <!--
 **zeentro/zeentro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
